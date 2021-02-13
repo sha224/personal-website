@@ -126,7 +126,7 @@ disableHugoGeneratorInject = false
 
   # Utterances comments widget
   [params.utterances]
-    repo = "sha224/utterances"
+    repo = "sha224/personal-website-utterances"
 
   # Uncomment this if you want a portrait on your start page
 
