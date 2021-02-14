@@ -1,0 +1,8 @@
+domain: shakhar.com
+dir: public
+command: hugo
+pinata:
+  jwtToken: $PINATA_TOKEN
+cloudflare:
+  apiKey: $CLOUDFLARE_KEY
+  zoneId: $CLOUDFLARE_ZONEID
