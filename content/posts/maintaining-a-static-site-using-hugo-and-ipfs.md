@@ -1,5 +1,5 @@
 ---
-title: "Maintaining a Static Site Using Hugo and IPFS"
+title: "Maintaining a Static Site using Hugo and IPFS"
 date: 2021-02-26T14:33:45-05:00
 draft: false
 toc: false
