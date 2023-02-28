@@ -145,10 +145,6 @@ disableHugoGeneratorInject = false
     url  = "https://github.com/sha224"
 
   [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/ShakharDasgupta"
-
-  [[params.social]]
     name = "linkedin"
     url  = "https://www.linkedin.com/in/shakhar-dasgupta"
 
